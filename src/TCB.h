@@ -14,4 +14,6 @@ typedef struct {
 extern Tcb task1Tcb;
 extern Tcb task2Tcb;
 
+void initTcb();
+
 #endif	// __TCB_H__
